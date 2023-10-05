@@ -2,13 +2,13 @@
 
 #### _Hecho por Rafael pascual Llorca_
 
-## Íncide
+## Índice
 
-´´´
+```
 1. Origen
 2. w3.org
 3. Tabla de resumen
-´´´
+```
 
 ### 1. Origen
 |Origen del sitio web|Fotografia del creador|
