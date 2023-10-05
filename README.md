@@ -33,7 +33,6 @@ Desadortunadamente la versión original (que fue creada hace más de 25 años) s
 
 ![W3.org](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-Elprimersitioweb-RafaelPascualLlorca/blob/main/Imagen4.jpg "W3.org")
 
-
 ### 3. Tabla de resumen
 
 |Orden|Resumen|
