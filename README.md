@@ -2,15 +2,21 @@
 
 #### _Hecho por Rafael pascual Llorca_
 
-## 1. Origen
+## Íncide
 
-El origen de este sitio web se situa en el 6 de Agosto de 1991, una persona llamada Tim Berners-Lee inició un proyecto con la intención de permitir el protocolo www (World Wide Web) en esa época.
+´´´
+1. Origen
+2. w3.org
+3. Tabla de resumen
+´´´
+
+### 1. Origen
+|Origen del sitio web|Fotografia del creador|
+|------------------------|--------------------------|
+|El origen de este sitio web se situa en el 6 de Agosto de 1991, una persona llamada Tim Berners-Lee inició un proyecto con la intención de permitir el protocolo www (World Wide Web) en esa época.|![Berners-Lee](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-Elprimersitioweb-RafaelPascualLlorca/blob/main/Imagen7.jpg "Berbers-Lee")|
 
 
-![Berners-Lee](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-Elprimersitioweb-RafaelPascualLlorca/blob/main/Imagen1.webp "Berbers-Lee")
-
-
-## 2. w3.org
+### 2. w3.org
 
 w3.org (el nombre del sitio web) fue creado con una computadora NeXt, uno de los terminales creada de la compañia creada por Steve Jobs.
 
@@ -25,10 +31,10 @@ Para ese entonces algunos servidores web ya se habían instalado y varias univer
 Desadortunadamente la versión original (que fue creada hace más de 25 años) se perdió. No cabe duda de que gracias a este proyecto tuvimos nuevas oportunidades de crear navegadores y sitios web.
 
 
-![W3.org](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-Elprimersitioweb-RafaelPascualLlorca/blob/main/Imagen3.webp "W3.org")
+![W3.org](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-Elprimersitioweb-RafaelPascualLlorca/blob/main/Imagen4.jpg "W3.org")
 
 
-## 3. Tabla de resumen
+### 3. Tabla de resumen
 
 |Orden|Resumen|
 |---------------|--------------|
