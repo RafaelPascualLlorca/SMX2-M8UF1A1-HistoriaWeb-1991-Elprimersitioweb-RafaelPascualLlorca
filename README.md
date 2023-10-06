@@ -35,5 +35,5 @@ Desadortunadamente la versión original (que fue creada hace más de 25 años) s
 |Orden|Resumen|
 |---------------|--------------|
 |1991|Creación del sitio web|
-|Primero 2 años|El sitio web eno tiene utilidad|
+|Primero 2 años|El sitio web no tiene utilidad|
 |Creación de Mosaic|El sitio web comienza a ser accesible y la gente lo empieza a utiizar|
