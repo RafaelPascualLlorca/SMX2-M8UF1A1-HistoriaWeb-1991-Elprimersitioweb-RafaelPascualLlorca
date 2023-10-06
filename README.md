@@ -1,6 +1,6 @@
 # El primer sitio web
 
-<img src="https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-Elprimersitioweb-RafaelPascualLlorca/blob/main/Imagen8.jpg" alt="El primer sitio web" width="250" height="200" />
+<img src="https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-Elprimersitioweb-RafaelPascualLlorca/blob/main/Imagen8.jpg" alt="El primer sitio web" width="350" height="300" />
 
 #### _Hecho por Rafael pascual Llorca_
 
